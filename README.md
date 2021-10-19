@@ -37,8 +37,10 @@ Vsak od teh rankov je potem razdeljen še na divizije od 1-4, kjer je 1 boljše 
 V nalogi bom gledal le igralce v najvišjih rankih, torej od Diamond 1 do Challenger.
 
 3. Na odigrano igro vsak igralec v zmagovalni ekipi dobi približno 20 točk, vsak izmed poražencev pa jih toliko zgubi. 
+
  3.1 Master, Grandmaster in Challenger so v bistvu ena sama velika kategorija, kjer igralci tekmujejo neposredno en z drugim;
  od tega je prvih 200 po točkah v Challengerju, naslednjih 500 v Grandmasterju, ostali pa so v Masterju.
+ 
  3.2 V nižjih rankih (od Irona do Diamonda) pa za vsako naslednjo divizjo potrebuješ 100 točk in si avtomatsko naprej (torej da 
  prideš iz Gold 2 v Gold 1 potrebuješ 100 točk in potem si v Gold 1 na 0 točk, iz Platinum 1 ravno tako potrebuješ 100 točk in 
  potem si Diamond 4 na 0 točk...).
