@@ -2,7 +2,7 @@
 LoL lestvica
 =========================================
 
-Analiziral bom najboljših 4000 igralcev videogrice League of Legends na vzhodnoevropskem serverju glede na Soloqueue.
+Analiziral bom najboljših 3000 igralcev videogrice League of Legends na vzhodnoevropskem serverju glede na Soloqueue.
 Podatke bom poiskal na strani https://www.leagueofgraphs.com/rankings/summoners/eune
 
 Za vsakega igralca bom pogledal:
