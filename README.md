@@ -23,7 +23,7 @@ Datoteke v repozitoriju vsebujejo:
 2. Loader.py datoteko - dejanski zajem podatkov
 3. Tabelica.csv - podatki.
 
-*Dodati/popraviti je treba še toleranco med Masters in Diamond I, posledično pa tudi zajeti malo več igralcev, da bo analiza le teh bolj zanimiva
+*Dodati/popraviti je treba še toleranco med Masters in Diamond I, posledično pa tudi zajeti malo več igralcev, da bo analiza le teh bolj zanimiva.*
    
    
  
