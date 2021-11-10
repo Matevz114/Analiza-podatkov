@@ -18,10 +18,21 @@ S podatki se bom spraševal:
    oziroma ali je igralcem sploh do tega da igrajo oba queue-ja
    
    
+Datoteke v repozitoriju vsebujejo:
+1. Orodja.py datoteko iz predavanj (ta je bila osnova za zajem podatkov)
+2. Loader.py datoteko - dejanski zajem podatkov
+3. Tabelica.csv - podatki.
+
+*Dodati/popraviti je treba še toleranco med Masters in Diamond I, posledično pa tudi zajeti malo več igralcev, da bo analiza le teh bolj zanimiva
+   
+   
  
  
  
  
+
+
+
 Kaj sploh je League of Legends (LoL) in kako sistem razvrsti igralce?
 
 LoL je videoigra, igrana 5 na 5. Za potrebe te naloge so pomembni naslednji podatki:
