@@ -22,11 +22,6 @@ Datoteke v repozitoriju vsebujejo:
 1. Orodja.py datoteko iz predavanj (ta je bila osnova za zajem podatkov)
 2. Loader.py datoteko - dejanski zajem podatkov
 3. Tabelica.csv - podatki.
-
-*Dodati/popraviti je treba še toleranco med Masters in Diamond I, posledično pa tudi zajeti malo več igralcev, da bo analiza le teh bolj zanimiva.*
-   
-   
- 
  
  
  
@@ -45,7 +40,7 @@ razvrščal igralce.*
 
 2. Sistem rangiranja igralce razvrsti v kategorije Iron, Bronze, Silver, Gold, Platinum, Diamond, Master, Grandmaster, Challenger.
 Vsak od teh rankov je potem razdeljen še na divizije od 1-4, kjer je 1 boljše od 4 (torej Gold 1 je boljše od Gold 3).
-V nalogi bom gledal le igralce v najvišjih rankih, torej od Diamond 1 do Challenger.
+V nalogi bom gledal le igralce v najvišjih rankih, torej od Master do Challenger.
 
 3. Na odigrano igro vsak igralec v zmagovalni ekipi dobi približno 20 točk, vsak izmed poražencev pa jih toliko zgubi. 
 
